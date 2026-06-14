@@ -16,7 +16,7 @@ python-multipart
 
 redis
 
-minio
+miniogit
 
 loguru
 
